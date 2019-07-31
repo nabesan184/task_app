@@ -2,14 +2,10 @@
 
 one:
   title: MyString
-  string: MyString
-  body: MyString
-  text: MyString
-  due_date: 2019-07-30
+  body: MyText
+  due_date: 2019-07-31
 
 two:
   title: MyString
-  string: MyString
-  body: MyString
-  text: MyString
-  due_date: 2019-07-30
+  body: MyText
+  due_date: 2019-07-31
