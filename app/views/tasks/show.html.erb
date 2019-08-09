@@ -1,0 +1,14 @@
+<h1>タスク詳細</h1>
+
+<p><b>【タイトル】</b></p>
+<%= @task.title %>
+
+<p><b>【本文】</b></p>
+<%= simple_format @task.body %>
+
+<p><b>【期限】</b></p>
+<%= @task.due_date %>
+
+<div>
+<%= link_to "戻る", tasks_path %>
+</div>
